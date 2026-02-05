@@ -1,4 +1,5 @@
-C2T-LSTSA
+##C2T-LSTSA
+
 Input size : 1536 * 1 * 30 * 375 for SSRDA and 1536 * 1 * 30 * 500 for SSRDB and SSRDC
 
 Our network can be used dirictly, but some Interface, data format and how to divide brain regions need to be studied carefully.
