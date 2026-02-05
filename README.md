@@ -1,4 +1,4 @@
-##C2T-LSTSA
+# C2T-LSTSA
 
 Input size : 1536 * 1 * 30 * 375 for SSRDA and 1536 * 1 * 30 * 500 for SSRDB and SSRDC
 
